@@ -1,0 +1,7 @@
+nome = input ('Nome: ')
+sobrenome = input ('Sobrenome: ')
+idade = input ('Idade: ')
+nascimento = input ('Data de nascimento: ')
+altura = input ('Altura (cm): ')
+peso = input ('Peso: ')
+print ('Você se chama', nome, sobrenome, ', tem', idade, 'anos, nasceu em', nascimento, ', tem', altura, 'cm de altura, e pesa', peso, 'quilos.')

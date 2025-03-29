@@ -1,0 +1,5 @@
+nome = input ('Nome completo: ')
+endereço = input ('Endereço: ')
+telefone = input ('Telefone: ')
+email = input ('e-mail: ')
+print ('Você se chama', nome, ', mora em', endereço, ',seu telefone é', telefone, 'e seu e-mail é', email, '. Correto?')

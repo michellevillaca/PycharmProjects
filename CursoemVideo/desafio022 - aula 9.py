@@ -1,0 +1,7 @@
+nome=(input('Digite o seu nome completo: '))
+print('Seu nome com letras maiúsculas é \033[33m{}\033[m.'.format(nome.upper()))
+print('Seu nome com letras minúsculas é \033[34m{}\033[m.'.format(nome.lower()))
+numletras=len(nome) - nome.count(' ')
+print('O seu nome completo tem \033[36m{} letras\033[m.'.format(numletras))
+dividido=nome.split()
+print('O seu primeiro nome tem \033[35m{} letras\033[m.'.format(len(dividido[0])))

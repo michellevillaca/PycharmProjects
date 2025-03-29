@@ -1,0 +1,6 @@
+Sam;6.0;Michelle
+Bono;11.0;Márcia
+Caju;4.0;Camila
+Jimmy;1.5;Mateus
+Nonei;4.0;Camila
+Piquet;10.0;Cláudia

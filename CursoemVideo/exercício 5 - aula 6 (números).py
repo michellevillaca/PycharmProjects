@@ -1,0 +1,8 @@
+n1 = float(input('Digite um valor: '))
+print(n1)
+n2 = bool(input('Digite um valor: '))
+print(n2)
+print(type(n1))
+n3=input('Digite um número: ')
+print(n3.isalpha())
+print(n3.isnumeric())
